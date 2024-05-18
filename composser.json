@@ -1,9 +1,9 @@
 {
-    "name": "aorusx/my-php-lib",
-    "description": "A simple PHP library for encoding and decoding strings test",
+    "name": "yourusername/my-php-lib",
+    "description": "A simple PHP library for encoding and decoding strings",
     "type": "library",
     "require": {
-        "php": ">=6.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
