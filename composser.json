@@ -1,0 +1,16 @@
+{
+    "name": "aorusx/my-php-lib",
+    "description": "A simple PHP library for encoding and decoding strings",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyPhpLib\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
