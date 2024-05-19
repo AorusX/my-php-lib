@@ -1,5 +1,5 @@
 {
-    "name": "yourusername/my-php-lib",
+    "name": "AorusX/my-php-lib/",
     "description": "A simple PHP library for encoding and decoding strings",
     "type": "library",
     "require": {
